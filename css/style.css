@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5vw 8vw 1.5vw 8vw;
+}
+header ul {
+    display: flex;
+}
+header ul li{
+    margin-left: 2vw;
+}
+header span {
+    color: #1090CB;
+}
+header ul li button{
+    background-color: #1090CB;
+    padding: 3px;
+    border-radius: 2vw;
+    
+}
+main .inicio .maior{
+    background-color: rgba(16, 144, 203, 0.1);
+}
+main .inicio .maior div h1 span{
+    color: #1090CB;
+}
+main .inicio .maior div h1{
+    font-size: 1.5vw;
+
+}
